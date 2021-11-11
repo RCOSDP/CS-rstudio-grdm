@@ -1,0 +1,4 @@
+Name: Sync to RDM
+Description: Sync result directory to GakuNin RDM
+Binding: syncToRDM
+Interactive: false
