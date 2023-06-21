@@ -1,6 +1,6 @@
 Package: rdmaddins
 Title: RDM BinderHub Addins for RStudio
-Version: 0.1
+Version: 0.2
 Description: Sync to RDM menu
 Depends: R (>= 3.0.0)
 Imports:
